@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shwetkamal Gaud</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
