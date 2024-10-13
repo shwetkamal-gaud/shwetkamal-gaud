@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/mrskg0438/portfolio)
 
-- 🌱 I’m currently learning **Spring boot Framework, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Spring Boot Framework, Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrskg0438/](https://github.com/mrskg0438/)
 
