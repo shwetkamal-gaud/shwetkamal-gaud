@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrskg0438/](https://github.com/mrskg0438/)
 
-- 💬 Ask me about **React, Next.js, Bootstrap, Python,**
+- 💬 Ask me about **React, Next.js, Bootstrap, Python**
 
 - 📫 How to reach me **gaudshwetkamal0438@gmail.com**
 
