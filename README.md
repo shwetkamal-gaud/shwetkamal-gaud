@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gaudshwetkamal" target="blank"><img src="https://img.shields.io/twitter/follow/gaudshwetkamal?logo=twitter&style=for-the-badge" alt="gaudshwetkamal" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/mrskg0438/portfolio)
+- 🔭 I’m currently working on [Virtual Classroom](https://github.com/mrskg0438/virtualclassroom)
 
 - 🌱 I’m currently learning **Spring Boot Framework, Data Structures and Algorithms**
 
