@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/gaudshwetkamal" target="blank"><img src="https://img.shields.io/twitter/follow/gaudshwetkamal?logo=twitter&style=for-the-badge" alt="gaudshwetkamal" /></a> </p>
 
-- 🔭 I’m currently working on My Frontend Skills
+- 🔭 I’m currently working on My **Frontend Skills**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shwetkamal-gaud/](https://github.com/shwetkamal-gaud/)
 
-- 💬 Ask me about **React, Next.js, Bootstrap, Python**
+- 💬 Ask me about **React, Next.js, Bootstrap, Python, JavScript, TypeScript, TailwindCSS**
 
 - 📫 How to reach me **gaudshwetkamal0438@gmail.com**
 
